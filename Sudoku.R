@@ -13,3 +13,5 @@ existeSurBloc <- function(x, grille, a){
   }
   return(FALSE)
 }
+
+QuelBloc(2,1)
